@@ -1,11 +1,33 @@
-<<<<<<< HEAD
-LibLOL
+The Walri Uprising
 ======
 
-The Lehigh Overlay for LibGDX is a wrapper that makes it easy to write mobile games using the LibGDX framework.
+Available on the Google Play Store. [link]
 
-Please visit the [liblol wiki](http://github.com/mfs409/liblol/wiki) for information about how to use LibLOL.  You can also visit the [javadocs](http://mfs409.github.io/liblol/doc/index.html).
+OVERVIEW:
+A simple and beautifully designed 2D game where to objective is to [fill this in later].
+The Warli Uprising was developed for mobiLEHIGH 2015, Lehigh Univeristy's annual game dev contest.
+For more information, view our PowerPoint and Website.
+
+======
+# Screenshots
+
+Pictures of the game
+
+======
+# Technical Info
+
+Platforms supported: Android & Windows
+Screen Resolution: 1440 x 2560
+
+======
+# Credits
+
+Developed using libLOL overlay for for LibGDX framework.
+
+TEAM MEMBERS: Deep Sheth, Adam Knukey, Akhil Patil, Dan Truong
+AUDIO:
+GRAPHICS:
+SFX:
+
 =======
 # mobiLEHIGH
-Our game for Lehigh's annual game dev contest, mobiLEHIGH
->>>>>>> 3703a5b464b2cec1726d44cef8d50a676e7c8447
